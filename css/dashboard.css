@@ -1,0 +1,260 @@
+.main-right{
+    height: 100vh;
+    width: 100%;
+    overflow-y: scroll;
+}
+
+.x-row{
+    height: 100vh;
+}
+
+.main-left{
+    height: 100% !important;
+    overflow-y: scroll;
+}
+
+.form-input{
+    border: none !important;
+}
+.form-input:focus{
+    border-color: none;
+    box-shadow: none !important;
+}
+
+.form-box{
+    border: 1px solid #64c5b199;
+    padding: 2px 20px;
+    width: 350px;
+}
+
+.img{
+    object-fit: cover;
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+}
+
+.dashboard{
+    height:150px;
+    background-color: #64c5b1;
+    margin-top: 30px;
+}
+
+.dashboard-details-header{
+    font-size: 25px;
+}
+
+.mode{
+    text-decoration: none;
+    color: white;
+}
+
+.dashboard-address{
+    list-style: none;
+}
+.bar-chart{
+    width: 600px;
+}
+
+.dashboard-btn{
+    background-color: white !important;
+    display: inline-block;
+    /* padding: 20px 60px; */
+    font-size: 14px !important;
+    transition: all 0.2s;
+}
+.dashboard-btn:hover{
+    background-color: #567aed !important;
+    color: white !important;
+}
+
+.rev{
+    margin-top: -40px;
+}
+
+.mode-1{
+    color:black;
+    font-weight: 400;
+    font-size: 15px;
+}
+.chart-title{
+    width: 65%;
+    display: flex !important;
+    justify-content: space-between !important;
+}
+
+.earn{
+    height: 150px;
+}
+
+.right{
+    height: 200px;
+}
+
+.dashboards-btn{
+    background-color: #567aed !important;
+    display: inline-block;
+    font-size: 14px !important;
+    transition: all 0.2s !important;
+}
+
+.dashboards-btn:hover{
+    box-shadow:0 5px 20px #567aed !important;
+}
+.customer{
+    height: 300px;
+    width: 45%;
+}
+.total-title{
+    font: 10px;
+    font-weight: 700;
+    color: #101038;
+}
+.today{
+    background-color: #f1f5fa;
+    text-decoration: none;
+    color: #1c2d41;
+}
+a.active{
+    color: #1c2d41;
+    transform: none;
+}
+a.week{
+    color: #1c2d41;
+}
+.price-list{
+    list-style: none;
+}
+.price-title{
+    font: 15px;
+    font-weight:700;
+    color: #14256a;
+}
+.price-time{
+    font:5px;
+    font-weight:700;
+    color: #8890b5;
+}
+.price{
+    font-weight: 700;
+}
+.today-2{
+    background-color: #76fc65;
+    text-decoration: none;
+    color: green;
+}
+.now{
+    background-color: #48e0cf;
+}
+.cos{
+    color: #64c5b1;
+}
+.sun{
+    color: #ffb98a;
+}
+.tip{
+    color: #97c0ff;
+}
+.coss{
+    color: #bda5f8;
+    font-weight: 300;
+}
+.tab{
+    width: 100%;
+}
+svg path.Australia{
+    fill: rgba(116, 116, 177, 0.15);
+}
+.map{
+    height: 100%;
+    width: 100%;
+}
+.last-child{
+    background-color: #64c5b1;
+    height: 80px;
+}
+.line1{
+    height: 180px;
+    width: 6px;
+    background-color: #48e0cf !important;
+    border-radius: 5px;
+}
+.line2{
+    height: 230px;
+    width: 6px;
+    background-color: #48e0cf !important;
+    border-radius: 5px;
+
+}
+.line3{
+    height: 130px;
+    width: 6px;
+    background-color: #48e0cf !important;
+    border-radius: 5px;
+    
+}
+.line4{
+    height: 180px;
+    width: 6px;
+    background-color: #48e0cf !important;
+    border-radius: 5px;
+
+}
+.line5{
+    height: 240px;
+    width: 6px;
+    background-color: #48e0cf !important;
+    border-radius: 5px;
+}
+.line6{
+    height: 140px;
+    width: 6px;
+    background-color: #48e0cf !important;
+    border-radius: 5px;
+}
+.line7{
+    height: 130px;
+    width: 6px;
+    background-color: #48e0cf !important;
+    border-radius: 5px;
+}
+.line8{
+    height: 230px;
+    width: 6px;
+    background-color: #48e0cf !important;
+    border-radius: 5px;
+}
+.line9{
+    height: 130px;
+    width: 6px;
+    background-color: #48e0cf !important;
+    border-radius: 5px;
+}
+.line10{
+    height: 180px;
+    width: 6px;
+    background-color: #48e0cf !important;
+    border-radius: 5px;
+}
+.line11{
+    height: 240px;
+    width: 6px;
+    background-color: #48e0cf !important;
+    border-radius: 5px;
+}
+.line12{
+    height: 130px;
+    width: 6px;
+    background-color: #48e0cf !important;
+    border-radius: 5px;
+}
+.Revenue-prices{
+    position: relative ;
+    width: 100px;
+}
+.barss{
+    margin-right: 42.5px !important;
+}
+.shift{
+    margin: 17.5px;
+}
